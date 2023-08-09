@@ -13,8 +13,6 @@ N/A
 
 Refer to website to learn basic information about HTML, CSS, Git, and JavaScript. Explore the Inspect element in Chrome by right clicking on the webpage and hitting inspect. This will help you to understand how the webpage is organized using HTML. Go deeper by clicking Console to see how JavaScript is being utilized to suggest what to study first. 
 
-![alt text](assets/images/screenshot.png)
-
 ## Credits
 
 https://github.com/FadingFox
@@ -42,5 +40,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Tests
